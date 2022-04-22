@@ -7,4 +7,4 @@ wflow_start("vyuka_reprodukovatelnost")
 
 wflow_status()
 
-wflow_publish(c("00_setup.R"))
+wflow_publish(c("00_setup.R"), "first commit")
