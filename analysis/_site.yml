@@ -12,7 +12,7 @@ navbar:
   right:
   - icon: fab fa-github
     text: Source code
-    href: https://github.com/vyuka_reprodukovatelnost/vyuka_reprodukovatelnost
+    href: https://github.com/Ovesna/vyuka_reprodukovatelnost
 output:
   workflowr::wflow_html:
     toc: yes
